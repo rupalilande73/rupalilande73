@@ -5,11 +5,11 @@ A passionate Software Tester from India Detail-oriented software tester with a p
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 \-
-
+🧠  I'm learning I’m currently learning Automation Testing using Selenium with JAVA
 * 🌍  I'm based in Ask me about Manual Testing concept like SDLC,STLC,Defect Life Cycle,Jira,Agile, JAVA,Selenium
-* ✉️  You can contact me at [rupalivlande2002@gmail.com](mailto:rupalivlande2002@gmail.com)
-* 🧠  I'm learning I’m currently learning Automation Testing using Selenium with JAVA
 * 🤝  I'm open to collaborating on testing
+* ✉️  You can contact me at [rupalivlande2002@gmail.com](mailto:rupalivlande2002@gmail.com)
+
 
 ### Skills
 
