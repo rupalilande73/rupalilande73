@@ -6,9 +6,9 @@ desiner
 
 \-
 
-* 🌍  I'm based in testing
+* 🌍  I'm based in Ask me about Manual Testing concept like SDLC,STLC,Defect Life Cycle,Jira,Agile, JAVA,Selenium
 * ✉️  You can contact me at [rupalivlande2002@gmail.com](mailto:rupalivlande2002@gmail.com)
-* 🧠  I'm learning tesring
+* 🧠  I'm learning I’m currently learning Automation Testing using Selenium with JAVA
 * 🤝  I'm open to collaborating on na
 
 ### Skills
