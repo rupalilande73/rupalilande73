@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupali</h1>
 <h3 align="center">A passionate Aspiring Software Tester | Passionate about Automation Testing with Java Selenium | Learning Software Application testing which includes Manual and Automation Testing, DB testing and Mobilefrontend developer from India</h3>
 
-- I’m currently pursing Master in Computer Application **I’m currently pursing Master in Computer Application**
+- 💬 Ask me about **Manual Testing: SDLC, STLC, Defect Life Cycle, Black Box Testing, Jira Tool, Agile Methodology, Test Case Design and Execution**
 
 - 📫 How to reach me **rupalivlande2002@gmail.com**
 
